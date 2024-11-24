@@ -1,8 +1,8 @@
 # Git test script: 
 
-x <- rnorm(100)
-y <- rnomr(100)
+x <- rnorm(200)
+y <- rnomr(200)
 
 # Important feature
 
-# New feature
+# Normal development
