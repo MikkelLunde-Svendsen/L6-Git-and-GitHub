@@ -1,3 +1,4 @@
 # Git test script: 
 
 x <- rnorm(100)
+y <- rnomr(100)
