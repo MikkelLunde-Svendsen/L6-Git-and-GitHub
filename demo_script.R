@@ -7,4 +7,10 @@ y <- rnomr(500)
 
 # Important feature
 
+
 # Normal development
+
+# An alternate way forward 
+
+
+
